@@ -1,0 +1,19 @@
+{
+  "name": "cborld-ipld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "dependencies": {
+    "@digitalbazaar/cborld": "^4.4.0",
+    "canonicalize": "^1.0.8",
+    "ipld": "^0.30.2",
+    "jest": "^27.5.1",
+    "jsonld": "^5.2.0",
+    "multiformats": "^9.6.4"
+  }
+}
